@@ -34,8 +34,8 @@ An end-to-end data analytics project that extracts real-time data from the **Coi
 - `PowerBIPerformanceData.json` → Visual usage analysis from Power BI export
 ---
 ## 🧑‍💼 Author
-**Abhishikt Kevin John**  
-📫 GitHub: [Abhishikt07](https://github.com/Abhishikt07)  
+**Ridhima Bhardwaj**  
+📫 GitHub: [bridhima-21](https://github.com/bridhima-21)  
 🎓 Data Analyst | Python | Power BI
 ---
 ## 🏁 Final Output
